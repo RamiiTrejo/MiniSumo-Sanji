@@ -9,7 +9,8 @@ Minisumo
  <strong>FRONT VIEW</strong>
 </div> 
 <img width="1417" height="876" alt="image" src="https://github.com/user-attachments/assets/35572cb0-9fd2-43f8-b9d6-a91ce8adf1bd" />
-<br>
+<div align="center">
+ <br>
  <strong>BACK VIEW</strong>
 </div> 
 <img width="1420" height="868" alt="image" src="https://github.com/user-attachments/assets/c3d6243e-c3b5-4b82-b435-ab8f3ec32afd" />
