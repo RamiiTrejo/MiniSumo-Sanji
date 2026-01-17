@@ -17,4 +17,6 @@ Minisumo
 
 <img width="1920" height="782" alt="minisumo v1" src="https://github.com/user-attachments/assets/d622a173-c690-4b9f-95a3-51486a57f0e8" />
 <img width="1920" height="782" alt="LATERAL MINISUMO" src="https://github.com/user-attachments/assets/c263aa2c-0d2b-4a04-825f-e99e5c2c10b8" />
+<img width="1920" height="782" alt="BACK MINISUMO" src="https://github.com/user-attachments/assets/63ce45e5-8910-46d1-8c02-64d2a0b3e5e1" />
+
 <img width="1235" height="545" alt="image" src="https://github.com/user-attachments/assets/a4a349b6-41a9-41d1-891e-1d5128e5a39c" />
