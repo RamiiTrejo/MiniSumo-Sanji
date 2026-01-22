@@ -14,7 +14,10 @@ Minisumo
  <strong>BACK VIEW</strong>
 </div> 
 <img width="1420" height="868" alt="image" src="https://github.com/user-attachments/assets/c3d6243e-c3b5-4b82-b435-ab8f3ec32afd" />
-
+# 3D Sanji
 <img width="1920" height="782" alt="minisumo v1" src="https://github.com/user-attachments/assets/d622a173-c690-4b9f-95a3-51486a57f0e8" />
 <img width="1920" height="782" alt="LATERAL MINISUMO" src="https://github.com/user-attachments/assets/c263aa2c-0d2b-4a04-825f-e99e5c2c10b8" />
 <img width="1920" height="782" alt="BACK MINISUMO" src="https://github.com/user-attachments/assets/63ce45e5-8910-46d1-8c02-64d2a0b3e5e1" />
+
+cómo se aprecia en kas imágenes, Sanji Llevara de momento 4 sensores JS40F De arsumo, también poseerá 1 par de ruedas JS2622, 2 sensores de línea QRE1113, y de momento par de Motores pololu N20 de 500RPM
+
